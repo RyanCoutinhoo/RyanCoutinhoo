@@ -2,6 +2,14 @@
 <p>Meu nome é Ryan Coutinho e trabalho com dados na Natura. Aos 20 anos, transformei meu interesse por tecnologia em carreira, mergulhando no ecossistema dos dados — o combustível do futuro. Atualmente, foco em consolidar uma base técnica forte e estruturada, sempre guiado por uma cultura data-driven para gerar impacto no mercado.</p>  
 
 ## Atualmente estou estudando as seguintes tecnologias:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,python,aws,git" />
+  </a>
+</p>
+
+<!--
 <table>
   <tr>
     <td align="center">
@@ -34,8 +42,12 @@
 ## Contato
 
 <a href= "www.linkedin.com/in/ryan-coutinho-barra-90b045260">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="60" height="60"> 
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="40" height="40"> 
 </a> 
+
+<a href="mailto:ryancoutbarra1401@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+</a>
 
 <!--
 
