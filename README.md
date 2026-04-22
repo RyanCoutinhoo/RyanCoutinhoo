@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/ryan-coutinho-barra-90b045260" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:ryancoutbarra1401@gmail.com" target="_blank">
+  <a href="mailto:ryancoutbarra1401@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
