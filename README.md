@@ -41,13 +41,14 @@
 
 ## Contato
 
-<a href= "www.linkedin.com/in/ryan-coutinho-barra-90b045260">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="40" height="40"> 
-</a> 
-
-<a href="mailto:ryancoutbarra1401@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/ryan-coutinho-barra-90b045260" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ryancoutbarra1401@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
 
 <!--
 
