@@ -37,7 +37,7 @@
 
 ## Ambições
 
-<p>Durante minha infância semore tive o desejo e a ambição de trasnformar a vida das pessoa susando a tecnologia e na  minha opinião, um forte jeito de realziar isso é através do mundo dos jogos, por isso, tenho o grande desejo de um dia trabalhar nesta área, desenvolvendo histórias para que as pessoas sintam cada momento e possam se lembrar disso para sempre.</p>
+<p>Durante minha infância semore tive o desejo e a ambição de trasnformar a vida das pessoa susando a tecnologia e na  minha opinião, um forte jeito de realizar isso é através do mundo dos jogos, por isso, tenho o grande desejo de um dia trabalhar nesta área, desenvolvendo histórias para que as pessoas sintam cada momento e possam se lembrar disso para sempre.</p>
 
 ## Contato
 
